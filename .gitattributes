@@ -1,3 +1,2 @@
 copilot-1.94.12751.vsix filter=lfs diff=lfs merge=lfs -text
 copilot-1.94.12750.vsix filter=lfs diff=lfs merge=lfs -text
-copilot-1.95.12844.vsix filter=lfs diff=lfs merge=lfs -text
